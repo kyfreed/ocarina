@@ -7,18 +7,18 @@
     </head>
     <body style="font-family: 'Arial'; font-size: 24px; background-color: rgb(22,69,110); color: #d2d2d2">
         <h1>Gameplay</h1>
-        <p>There are 9 major dungeons to visit in Ocarina of Time:</p>
+        <p>There are 9 major dungeons to visit in <i>Ocarina of Time</i>:</p>
         <br>
         <img src='dungeons.png'>
         <br>
-        <p> Compared to Majora's Mask's 4:</p>
+        <p> Compared to <i>Majora's Mask</i>'s 4:</p>
         <br>
         <img src='dungeonsm.png'>
         <br>
-        <p>This means that, while Majora's Mask has many more sidequests, the core gameplay is much longer in Ocarina of Time.</p>
+        <p>This means that, while <i>Majora's Mask</i> has many more sidequests, the core gameplay is much longer in <i>Ocarina of Time</i>.</p>
         <br>
-        <p>Also, the time mechanic in Majora's Mask doesn't really appeal to me.</p>
-        <p>Majora's Mask has this constantly on the bottom of the screen:</p>
+        <p>Also, the time mechanic in <i>Majora's Mask</i> doesn't really appeal to me.</p>
+        <p><i>Majora's Mask</i> has this constantly on the bottom of the screen:</p>
         <br>
         <img src='clock.jpg'>
         <br>

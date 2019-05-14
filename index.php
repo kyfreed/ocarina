@@ -19,8 +19,8 @@ and open the template in the editor.
         <title>Ocarina of Time</title>
     </head>
     <body>
-        <h1>Ocarina of Time</h1>
-        <p>Ocarina of Time is one of the best games that I have played, and a lot of other people think so as well. In fact, it was so popular that it inspired a similar game a bit later, called Majora's Mask. It is hotly debated which of these two is better, and I take the side of Ocarina of Time.</p>
+        <h1><i>Ocarina of Time</i></h1>
+        <p><a href='ocarina.php'><i>Ocarina of Time</i></a> is one of the best games that I have played, and a lot of other people think so as well. In fact, it was so popular that it inspired a similar game a bit later, called <a href="mm.php"><i>Majora's Mask.</i></a> It is hotly debated which of these two is better, and I take the side of <i>Ocarina of Time.</i></p>
         <p>This conclusion is based on:</p>
         <button class="btn" style="background-color: #226420; color: #fafdf9" onclick="window.location.href = '/gameplay.php'">Gameplay</button>
         <button class="btn" style="background-color: #682124; color: #fafdf9" onclick="window.location.href = '/worlddesign.php'">World Design</button>

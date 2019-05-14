@@ -13,7 +13,9 @@ body{
     background-color: #373782;
     color: #ecb301;
 }
-#panel{
-    display:none;
-    background-color: #00ffff;
+a{
+    color:#ca010b;
+}
+a:hover{
+    color:#ca010b;
 }
